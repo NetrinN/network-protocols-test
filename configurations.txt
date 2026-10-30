@@ -31,5 +31,5 @@ vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&
 vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&type=tcp&security=none#USA, New-York №1
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#USA, New-York №2
 vless://3b97fca5-c233-4838-a8f3-871314159567@31.129.22.199:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Portugal, Viana do Castelo
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=lt-1.1984.love#Lithuania, Vilnius
+trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=lt-1.1984.love#Lithuania [60 Mbit]
 vless://d342d11e-d224-4463-b982-532309285094@104.18.37.247:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#guns.lol/zondy (Russia, Domodedovo)
