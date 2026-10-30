@@ -3,18 +3,18 @@ vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none
 vless://9ea76ca3-3d77-413e-9d21-e80f938e47ef@185.66.71.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Belarus, Minsk
 vless://0e4d3c3b-63b4-4a2a-a483-64b1c985071b@45.12.238.118:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Belgium, Brussels
 vless://8c4fcbfa-1b12-462a-b654-5b5cbab73881@155.212.190.7:16443?encryption=none&type=tcp&security=none#Czechia, Prague
-vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn
-vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@81.163.30.84:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn
-vless://18932fa5-3f0c-45a3-9152-1d37be0a1777@45.144.176.57:8080?encryption=none&type=xhttp&security=none#Finland, Helsinki
-vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@109.69.21.62:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Finland, Helsinki
+vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn №1
+vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@81.163.30.84:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn №2
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#Estonia, Tallinn №3
+vless://18932fa5-3f0c-45a3-9152-1d37be0a1777@45.144.176.57:8080?encryption=none&type=xhttp&security=none#Finland, Helsinki №1
+vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@109.69.21.62:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Finland, Helsinki №2
 vless://6af32d3c-d690-494a-a7c5-4455a5ef9c12@188.68.221.80:16443?encryption=none&type=tcp&security=none#France, Strasbourg
 vless://2c339ba5-b179-4a47-b5ea-9eb8f94d07f1@159.194.216.8:16443?encryption=none&type=tcp&security=none#Germany, Berlin
 vless://071bc021-84d7-4997-8505-b954e00ae558@31.184.253.250:16443?encryption=none&type=tcp&security=none#Britain, London
 vless://ce4064a8-7021-4ad2-8790-3b11cffb5c09@185.206.171.35:16443?encryption=none&type=tcp&security=none#Hong-Kong, Tsuen Wan
 vless://d68a7263-02df-410b-be5e-c888698f5aa8@107.181.139.222:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#India, New Delhi
-vless://a9a59270-3614-494d-a7a4-72d3b3fea778@45.144.176.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Ireland, Dublin
-vless://af6c9fcd-8edb-4058-b0c3-6f6b78877338@159.194.223.156:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Ireland, Dublin
+vless://a9a59270-3614-494d-a7a4-72d3b3fea778@45.144.176.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Ireland, Dublin №1
+vless://af6c9fcd-8edb-4058-b0c3-6f6b78877338@159.194.223.156:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Ireland, Dublin №2
 vless://3a0c3569-49c2-451c-8530-c1f56affcc88@84.38.180.167:16443?encryption=none&type=tcp&security=none#Italy, Milan
 vless://dad61e62-7bb2-4b5d-80ce-ebfdbd66cde4@74.113.233.243:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Japan, Tokyo
 vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#Kazakhstan, Almaty
