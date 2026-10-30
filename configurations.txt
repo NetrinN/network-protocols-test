@@ -32,4 +32,3 @@ vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&
 vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&type=tcp&security=none#🇺🇸 Манассас
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 Нью-Йорк
 vless://3b97fca5-c233-4838-a8f3-871314159567@31.129.22.199:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто №1
-vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто №2
