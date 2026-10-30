@@ -7,7 +7,7 @@ The objective of this project is to analyze network latency, packet loss, and up
 
 ## 📂 Repository Structure
 - `by-country/` — Individual text documents containing specific node parameters grouped by country for localized latency mapping. (COMING SOON)
-- `configs.txt` — Unified routing matrix configuration, optimized for multi-node subscription and diagnostic scripts.
+- `configurations.txt` — Unified routing matrix configuration, optimized for multi-node subscription and diagnostic scripts.
 
 ## 📱 Technical Implementation
 These configuration streams are compatible with standard network analysis clients that support V2Ray/Xray cores, including but not limited to:
