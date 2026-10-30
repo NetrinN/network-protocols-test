@@ -6,8 +6,8 @@ vless://8c4fcbfa-1b12-462a-b654-5b5cbab73881@155.212.190.7:16443?encryption=none
 vless://0d1aa021-84d7-4997-8333-1254e00ae777@84.38.181.229:16443?encryption=none&type=tcp&security=none#🇪🇪 Таллин №1
 vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@81.163.30.84:16443?encryption=none&type=tcp&security=none#🇪🇪 Таллин №2
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#🇪🇪 Таллин №3
-vless://18932fa5-3f0c-45a3-9152-1d37be0a1777@45.144.176.57:8080?encryption=none&type=xhttp&security=none#🇫🇮 Хельсинки №2
-vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@109.69.21.62:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Хельсинки №3
+vless://18932fa5-3f0c-45a3-9152-1d37be0a1777@45.144.176.57:8080?encryption=none&type=xhttp&security=none#🇫🇮 Хельсинки №1
+vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@109.69.21.62:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Хельсинки №2
 vless://6af32d3c-d690-494a-a7c5-4455a5ef9c12@188.68.221.80:16443?encryption=none&type=tcp&security=none#🇫🇷 Страсбург
 vless://2c339ba5-b179-4a47-b5ea-9eb8f94d07f1@159.194.216.8:16443?encryption=none&type=tcp&security=none#🇩🇪 Берлин
 vless://071bc021-84d7-4997-8505-b954e00ae558@31.184.253.250:16443?encryption=none&type=tcp&security=none#🇬🇧 Лондон
@@ -30,6 +30,4 @@ vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none
 vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&type=tcp&security=none#🇺🇸 Майами
 vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&type=tcp&security=none#🇺🇸 Манассас
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 Нью-Йорк
-vless://3b97fca5-c233-4838-a8f3-871314159567@31.129.22.199:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто №1
-vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто №2
-vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Хельсинки №1
+vless://3b97fca5-c233-4838-a8f3-871314159567@31.129.22.199:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто
