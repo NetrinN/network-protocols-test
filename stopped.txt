@@ -1,2 +1,2 @@
-vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Порто №2
-vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Хельсинки №1
+vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#1
+vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#2
