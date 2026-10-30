@@ -19,7 +19,7 @@ vless://3a0c3569-49c2-451c-8530-c1f56affcc88@84.38.180.167:16443?encryption=none
 vless://dad61e62-7bb2-4b5d-80ce-ebfdbd66cde4@74.113.233.243:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Japan
 vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#Kazakhstan
 vless://e49cdd6e-f0b5-4981-afc8-06748be84385@85.198.100.2:17443?encryption=none&type=tcp&security=none#Kyrgyzstan
-vless://234aa131-84d7-4997-1505-ba54e00ae765@188.68.222.228:16443?encryption=none&type=tcp&security=none#Netherlands (80 Mbit)
+vless://234aa131-84d7-4997-1505-ba54e00ae765@188.68.222.228:16443?encryption=none&type=tcp&security=none#Netherlands [80 Mbit]
 vless://0d2aa030-84d7-4997-8505-b954e00ae347@185.62.1.35:16443?encryption=none&type=tcp&security=none#Poland
 vless://be7cb295-4594-4a5a-bc5a-b673d9f5e00d@62.113.103.27:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Russia
 vless://28d3b9e4-f930-4250-a180-5e2d63a83bfe@45.151.155.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Singapore
@@ -32,4 +32,4 @@ vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#USA №3
 vless://3b97fca5-c233-4838-a8f3-871314159567@31.129.22.199:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#Portugal
 trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=lt-1.1984.love#Lithuania [60 Mbit]
-vless://d342d11e-d224-4463-b982-532309285094@104.18.37.247:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#guns.lol/zondy
+vless://d342d11e-d224-4463-b982-532309285094@104.18.37.247:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#guns.lol/zondy [70 Mbit]
