@@ -1,1 +1,0 @@
-[Общая подписка](MULTI: https://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@raw.githubusercontent.com/NetrinN/network-protocols-test/refs/heads/main/configurations.txt)
