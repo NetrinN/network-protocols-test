@@ -1,0 +1,1 @@
+vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&type=tcp&security=none#🇰🇿 Kazakhstan
