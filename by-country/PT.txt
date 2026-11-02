@@ -1,1 +1,2 @@
 vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Portugal
+vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Portugal
