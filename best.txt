@@ -1,14 +1,14 @@
-vless://9a8fc468-f805-4251-abf0-156957508a4d@80.249.147.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇦🇱 Albania
-vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none&type=tcp&security=none#🇦🇹 Austria
-vless://9ea76ca3-3d77-413e-9d21-e80f938e47ef@185.66.71.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾 Belarus
-vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Switzerland
-vless://0d2aa021-84d7-4997-8505-b954e00ae558@188.68.220.160:16443?encryption=none&type=tcp&security=none#🇪🇸 Spain
-vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Finland
-vless://071bc021-84d7-4997-8505-b954e00ae558@31.184.253.250:16443?encryption=none&type=tcp&security=none#🇬🇧 UK
-vless://ce4064a8-7021-4ad2-8790-3b11cffb5c09@185.206.171.35:16443?encryption=none&type=tcp&security=none#🇭🇰 Hong-Kong
-vless://0d2aa030-84d7-4997-8505-b954e00ae347@185.62.1.35:16443?encryption=none&type=tcp&security=none#🇵🇱 Poland
-vless://7771a131-84d7-4997-8505-ba54e00ae222@31.184.254.172:16443?encryption=none&type=tcp&security=none#🇸🇪 Sweden
-vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇺🇦 Ukraine
-vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&type=tcp&security=none#🇺🇸 USA
-vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&type=tcp&security=none#🇺🇸 USA
-vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 USA
+vless://9a8fc468-f805-4251-abf0-156957508a4d@80.249.147.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇦🇱 Албания, Тирана
+vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none&type=tcp&security=none#🇦🇹 Австрия, Вена
+vless://9ea76ca3-3d77-413e-9d21-e80f938e47ef@185.66.71.100:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾 Беларусь, Минск
+vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Швейцария, Берн
+vless://0d2aa021-84d7-4997-8505-b954e00ae558@188.68.220.160:16443?encryption=none&type=tcp&security=none#🇪🇸 Испания, Мадрид
+vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Финляндия, Хельсинки
+vless://071bc021-84d7-4997-8505-b954e00ae558@31.184.253.250:16443?encryption=none&type=tcp&security=none#🇬🇧 Великобритания, Лондон
+vless://ce4064a8-7021-4ad2-8790-3b11cffb5c09@185.206.171.35:16443?encryption=none&type=tcp&security=none#🇭🇰 Гонконг, Цзюньвань
+vless://0d2aa030-84d7-4997-8505-b954e00ae347@185.62.1.35:16443?encryption=none&type=tcp&security=none#🇵🇱 Польша, Люблин
+vless://7771a131-84d7-4997-8505-ba54e00ae222@31.184.254.172:16443?encryption=none&type=tcp&security=none#🇸🇪 Швеция, Стокгольм
+vless://131cbd07-773a-4663-a147-98d42f067469@176.57.214.196:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇺🇦 Украина, Днепр
+vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&type=tcp&security=none#🇺🇸 США, Майами
+vless://e8cc5c5f-d7b4-4158-a25f-a0563b1ecada@92.53.120.18:16443?encryption=none&type=tcp&security=none#🇺🇸 США, Нью-Йорк №1
+vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇺🇸 США, Нью-Йорк №2
