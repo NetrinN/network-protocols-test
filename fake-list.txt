@@ -10,3 +10,5 @@ vless://0d2aa030-84d7-4997-8505-b954e00ae347@185.62.1.35:16443?encryption=none&t
 vless://7771a131-84d7-4997-8505-ba54e00ae222@31.184.254.172:16443?encryption=none&type=tcp&security=none#🇹🇴 Тонга, Муа
 vless://961e5144-9a2e-4bc4-abfb-2be69a306548@84.38.180.13:16443?encryption=none&type=tcp&security=none#🇱🇮 Лихтенштейн, Вадуц
 vless://65cc3e12-d587-404b-a00b-c3aa5e925d71@136.148.77.167:16443?encryption=none&type=tcp&security=none#🇸🇲 Сан-Марино, Монтеджардино
+vless://d68a7263-02df-410b-be5e-c888698f5aa8@107.181.139.222:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇳🇷 Науру, Боэ
+vless://28d3b9e4-f930-4250-a180-5e2d63a83bfe@45.151.155.169:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇲🇻 Мальдивы, Хухлумале
