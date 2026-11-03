@@ -1,3 +1,0 @@
-vless://18932fa5-3f0c-45a3-9152-1d37be0a1777@45.144.176.57:8080?encryption=none&type=xhttp&security=none#🇫🇮 Finland
-vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@109.69.21.62:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Finland
-vless://b41eeea4-c191-48ba-86f9-6561604071bf@80.249.145.234:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮 Finland

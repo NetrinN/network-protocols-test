@@ -1,1 +1,0 @@
-vless://b3ee8dd7-5501-4189-9fba-db3ceff8132c@179.237.67.108:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇭 Switzerland

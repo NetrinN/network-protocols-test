@@ -1,1 +1,0 @@
-vless://1f3a38d6-ebcc-4813-847e-b7d9f086a921@188.68.220.19:16443?encryption=none&type=tcp&security=none#🇦🇹 Austria
