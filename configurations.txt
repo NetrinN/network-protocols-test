@@ -32,6 +32,8 @@ vless://f8932fa5-3f0c-45a3-9152-1d37be0ac333@85.198.100.2:16443?encryption=none&
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@130.94.69.15:7001?#🇲🇾 Malaysia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@58.152.58.193:40006#🇲🇾 Malaysia
 vless://234aa131-84d7-4997-1505-ba54e00ae765@188.68.222.228:16443?encryption=none&type=tcp&security=none#🇳🇱 Netherlands
+vless://87e3b848-113d-4749-90a3-476fdb20cfc3@159.194.222.121:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇳🇱 Netherlands
+vless://f8932fa5-3f0c-45a3-9152-1d37be0a1333@217.26.28.144:8080?encryption=none&type=xhttp&security=none#🇳🇱 Netherlands
 vless://0d2aa030-84d7-4997-8505-b954e00ae347@185.62.1.35:16443?encryption=none&type=tcp&security=none#🇵🇱 Poland
 vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Portugal
 vless://edd50e03-168f-4140-a642-0767bceb5e3f@31.129.22.152:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇵🇹 Portugal
